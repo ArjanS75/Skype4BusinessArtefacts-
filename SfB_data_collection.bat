@@ -1,5 +1,5 @@
 REM Skype for Business Collection script
-REM Created by Arjan.Sturkenboom@shell.com
+REM Created by Arjan.Sturkenboom
 REM Date: 6 July 2018
 REM Dependencies:
 REM   1. sha256deep.exe from hashdeep. Download and extract the md5deep  package (https://github.com/jessek/hashdeep/releases). Add the extract location to the system’s path variable
