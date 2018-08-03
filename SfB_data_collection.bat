@@ -6,7 +6,7 @@ REM   1. sha256deep.exe from hashdeep. Download and extract the md5deep  package
 REM	  2. run the batch file with the appropriate client privileges
 REM   3. Volume Shadow Copies should be active on the Windows target client
 REM Version 0.3
-REM Be Aware: this is a beta version and will finally be reprogrammed into a python script.
+REM Be Aware: this is a beta version and will finally be changed into a more complete script.
 
 @Echo off
 
